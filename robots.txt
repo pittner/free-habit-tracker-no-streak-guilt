@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pittner.github.io/free-habit-tracker-no-streak-guilt/sitemap.xml
