@@ -29,6 +29,7 @@ Free to download · 7-day free trial · then $39.99/year · iPhone
 ## More free tools
 
 - [Free Vision Board Maker & phone wallpaper generator](https://pittner.github.io/free-vision-board-maker/)
+- [40 free AI prompts for habits that survive a missed day](https://pittner.github.io/habit-prompts/)
 
 ## License
 
